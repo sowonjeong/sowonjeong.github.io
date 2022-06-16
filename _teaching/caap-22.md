@@ -8,7 +8,7 @@ date: 2022-07-01
 location: "Chicago, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Here](https://caap-stats-22.github.io/) is the course webpage.
 
 Heading 1
 ======
