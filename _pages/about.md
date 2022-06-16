@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-### About
+## About
 I am M.S student in the Department of Statistics, the University of Chicago. I studied Applied Statistics in Yonsei University, South Korea.
 
 
-### Education
+## Education
 * The University of Chicago, 2021-2023(Expected)
   * M.S. in Statistics
 * Yonsei University, 2014-2019
