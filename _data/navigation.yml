@@ -9,18 +9,17 @@ main:
   - title: "Teaching"
     url: /teaching/        
 
-   - title: "Readings"
+  - title: "Readings"
     url: /readings/
     
  # - title: "Talks"
  #   url: /talks/ 
  
- #  - title: "Portfolio"
- #    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
 
  # - title: "Blog Posts"
  #   url: /year-archive/
-
     
  # - title: "Guide"
  #   url: /markdown/
