@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Readings"
+permalink: /readings/
+author_profile: true
+---
+
+{% include base_path %}
+
+
 # Self Study/Reading List
 
 ## Mathematics
