@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sowon Jeong"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "M.S student at the University of Chicago, Department of Statistics"
   location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
