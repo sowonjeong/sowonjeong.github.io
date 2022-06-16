@@ -12,7 +12,7 @@ This is a personal archive to keep track of self-study/reading.
 ## Mathematics
 
 ### Differential Geometry
-* [Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) <span style="color:blue"> *In progress*</span>.
+* [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) <span style="color:blue"> *In progress*</span>.
 * Discrete Differential Geoemtry by Carnegie Mellon University (CMU 15-458/858) <span style="color:blue"> *In progress*</span>.
   * [Course Material](https://brickisland.net/DDGSpring2022/course-description/)
   * [Video](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
