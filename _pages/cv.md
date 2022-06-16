@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+[This]() is a detailed version as of June 2022.
+
+## Education
 * B.Comm. in Applied Statistics, Yonsei University, 2019
 * M.S. in Statistics, University of Chicago, 2023(Expected)
 
-Research experience
-======
+## Research experience
 * Sep 2021-: Research Assistant
   * University of Chicago
   * Topics: Graph Neural Network
@@ -31,8 +31,7 @@ Research experience
   * Topics: Bioinformatics, Bayesian Hierarchical Model
   * Supervisor: PhD 
 
-Work experience
-======
+## Work experience
 * Jan 2019 - June 2021: Full-time Data Analyst
   * Hyundai Marine and Fire Insurance, Long-term Claim Planning Dept
   * Duties:
@@ -42,34 +41,3 @@ Work experience
   * BNP Paribas Securities Korea, Equity Derivative Sales
   * Duties: 
   * Skills: VBA, Microsoft Excel, Power Point
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
