@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+This is a personal archive to keep track of self-study/reading.
 
 ## Mathematics
 
