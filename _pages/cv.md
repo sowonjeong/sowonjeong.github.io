@@ -18,17 +18,17 @@ Research experience
 ======
 * Sep 2021-: Research Assistant
   * University of Chicago
-  * Topics: 
+  * Topics: Graph Neural Network
   * Supervisor: Professor Claire Donnat
 
 * Nov 2021-: Research Assitant
   * University of Chicago
-  * Topics
+  * Topics:
   * Supervisor: Professor Lek-heng Lim
 
 * May 2018-Feb 2019: Research Assitant
   * Yonsei University
-  * Topics: Bioinformatics
+  * Topics: Bioinformatics, Bayesian Hierarchical Model
   * Supervisor: PhD 
 
 Work experience
