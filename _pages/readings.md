@@ -13,7 +13,7 @@ This is a personal archive to keep track of self-study/reading.
 
 ### Differential Geometry
 * [Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)<span style="color:blue">some *blue* text</span>.
-* Discrete Differential Geoemtry lecture provided by Carnegie Mellon University (CMU 15-458/858)  
+* Discrete Differential Geoemtry by Carnegie Mellon University (CMU 15-458/858)  
   * [Course Material](https://brickisland.net/DDGSpring2022/course-description/)
   * [Video](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 
@@ -29,7 +29,7 @@ This is a personal archive to keep track of self-study/reading.
 * [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
 
 ### Deep Learning
-* Fundamentals of Deep Learning provided by TTIC
+* Fundamentals of Deep Learning by TTIC
   * [Course Material](https://mcallester.github.io/ttic-31230/FALL2021/)
 
 ### Algorithms
