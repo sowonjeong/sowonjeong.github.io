@@ -11,21 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Comm. in Applied Statistics, Yonsei University, 2019
+* M.S. in Statistics, University of Chicago, 2023(Expected)
+
+Research experience
+======
+* Sep 2021-: Research Assistant
+  * University of Chicago
+  * Topics: 
+  * Supervisor: Professor Claire Donnat
+
+* Nov 2021-: Research Assitant
+  * University of Chicago
+  * Topics
+  * Supervisor: Professor Lek-heng Lim
+
+* May 2018-Feb 2019: Research Assitant
+  * Yonsei University
+  * Topics: Bioinformatics
+  * Supervisor: PhD 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - June 2021: Full-time Data Analyst
+  * Hyundai Marine and Fire Insurance, Long-term Claim Planning Dept
+  * Duties:
+  * Skills: SQL, R, Microsoft Excel, Power Point
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017 - Dec 2017: Off-Cycle Intern
+  * BNP Paribas Securities Korea, Equity Derivative Sales
+  * Duties: 
+  * Skills: VBA, Microsoft Excel, Power Point
   
 Skills
 ======
