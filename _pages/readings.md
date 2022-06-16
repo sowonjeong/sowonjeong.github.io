@@ -12,15 +12,15 @@ This is a personal archive to keep track of self-study/reading.
 ## Mathematics
 
 ### Differential Geometry
-* [Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)<span style="color:blue">some *blue* text</span>.
-* Discrete Differential Geoemtry by Carnegie Mellon University (CMU 15-458/858)  
+* [Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) <span style="color:blue"> *In progress*</span>.
+* Discrete Differential Geoemtry by Carnegie Mellon University (CMU 15-458/858) <span style="color:blue"> *In progress*</span>.
   * [Course Material](https://brickisland.net/DDGSpring2022/course-description/)
   * [Video](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 
 ## Computer Science
 
 ### Machine Learning with Graphs 
-* [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
+* [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) 
 * Machine Learning with Graphs by Stanford University (CS-224W)
   * [Course Material](https://web.stanford.edu/class/cs224w/)
   * [Video](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
