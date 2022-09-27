@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Environmental Data Science Bootcamp"
 collection: teaching
 type: "Boothcamp"
 permalink: /teaching/2014-spring-teaching-1
