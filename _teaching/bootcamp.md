@@ -2,7 +2,7 @@
 title: "Statistics for Research"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/bootcamp
 venue: "Environmental Data Science Bootcamp"
 date: 2021-09-08
 location: "Chicago, USA"
