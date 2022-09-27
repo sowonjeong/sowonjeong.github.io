@@ -8,10 +8,11 @@ date: 2021-09-08
 location: "Chicago, USA"
 ---
 
-Teaching Assistant for [Statistics for Research](https://voices.uchicago.edu/nrtenergyandenvironment/bootcamps/)
+[Environmental Data Science Bootcamp](https://voices.uchicago.edu/nrtenergyandenvironment/bootcamps/) is designed to give new and continuing PhD students a jumpstart into the practical skills needed for conducting research. 
 
-* 9/8: Day 1 Linear Regression + LASSO
-* 9/9: Day 2 Bootstrapping + P-hacking
-* 9/12: Day 3 Time Series
-* 9/13: Day 4 Bayes
-* 9/14: Day 5 Gaussian Processes/Spatial
+Statistics for Research is 5 days session covering following topics:
+    * 9/8: Day 1 Linear Regression + LASSO
+    * 9/9: Day 2 Bootstrapping + P-hacking
+    * 9/12: Day 3 Time Series
+    * 9/13: Day 4 Bayes
+    * 9/14: Day 5 Gaussian Processes/Spatial
