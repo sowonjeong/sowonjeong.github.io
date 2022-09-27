@@ -14,8 +14,4 @@ I was an instructor for 6-weeks Summer session covering statistics as a preparat
 Heading 1
 ======
 
-Heading 2
-======
 
-Heading 3
-======
