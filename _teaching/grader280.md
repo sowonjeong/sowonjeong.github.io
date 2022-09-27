@@ -8,7 +8,7 @@ date: 2021-03-01
 location: "Chicago, USA"
 ---
 
-[STAT28000](http://www.stat.uchicago.edu/~lekheng/courses/280s22/) Optimization(Spring 2022) is undergraduate optimizationc course taught by Professor Lek-heng Lim. 
+[STAT28000](http://www.stat.uchicago.edu/~lekheng/courses/280s22/): Optimization(Spring 2022) is undergraduate optimization course taught by Professor [Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/). 
 
 Heading 1
 ======
