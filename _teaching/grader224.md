@@ -8,7 +8,7 @@ date: 2022-09-27
 location: "Chicago, USA"
 ---
 
-STAT224 Applied Regression Analysis(Autumn 2022): ~
+STAT22400 Applied Regression Analysis(Autumn 2022): ~
 
 Heading 1
 ======
