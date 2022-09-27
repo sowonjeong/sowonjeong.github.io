@@ -12,4 +12,4 @@ paperurl: 'https://arxiv.org/abs/2207.05887'
 
 Keywords: Graph Neural Networks, Diffusion Maps, Geometric Deep Learning
 
-//citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+<!--citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'-->
