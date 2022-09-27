@@ -1,14 +1,14 @@
 ---
-title: "Grader"
+title: "STAT224: Applied Linear Regression Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Grader"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Chicago, Department of Statistics"
 date: 2022-09-27
 location: "Chicago, USA"
 ---
 
-Grader for STAT224 Applied Regression Analysis
+STAT224 Applied Regression Analysis(Autumn 2022): ~
 
 Heading 1
 ======
