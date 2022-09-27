@@ -1,5 +1,5 @@
 ---
-title: "STAT280: Optimization"
+title: "STAT28000: Optimization"
 collection: teaching
 type: "Grader"
 permalink: /teaching/2014-spring-teaching-1
