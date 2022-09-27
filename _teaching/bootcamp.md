@@ -1,7 +1,7 @@
 ---
 title: "Environmental Data Science Bootcamp"
 collection: teaching
-type: "Boothcamp"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Environmental Data Science Bootcamp"
 date: 2021-09-08
