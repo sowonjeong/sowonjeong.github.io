@@ -23,13 +23,18 @@ redirect_from:
 
 * Nov 2021-: Research Assitant
   * University of Chicago
-  * Topics:
+  * Topics: Generative Modeling, Kernel Method
   * Supervisor: Professor Lek-heng Lim
 
-* May 2018-Feb 2019: Research Assitant
+* May 2018-Feb 2019: Undergraduate Research Assistant
   * Yonsei University
   * Topics: Bioinformatics, Bayesian Hierarchical Model
   * Supervisor: PhD 
+
+* Jan 2017-Feb 2017: Undergraduate Research Assistant(Internship)
+  * Seoul National University, Institute of Convergence Science
+  * Topics: Human Computer Interaction
+  * Supervisor: Professor Bongwon Suh 
 
 ## Work experience
 * Jan 2019 - June 2021: Full-time Data Analyst
