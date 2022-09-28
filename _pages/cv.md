@@ -19,7 +19,7 @@ redirect_from:
 * Sep 2021-: Research Assistant
   * University of Chicago
   * Topics: Graph Neural Network
-  * Supervisor: Professor \textsc{[Claire Donnat](https://donnate.github.io/)}
+  * Supervisor: Professor \sc{[Claire Donnat](https://donnate.github.io/)}
 
 * Nov 2021-: Research Assitant
   * University of Chicago
