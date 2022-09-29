@@ -84,9 +84,9 @@ Global Market, Equity Derivative Sales <br>
 
 ## 💻 Computer Languages
 
-**Advanced**: R, SQL, \LaTeX
-**Moderate**: Python(PyTorch, TensorFlow), SAS, Git
-**Basic**: Matlab
+**Advanced**: R, SQL, \LaTeX <br>
+**Moderate**: Python(PyTorch, TensorFlow), SAS, Git <br>
+**Basic**: Matlab <br>
 <br><br>
 
 ## 💬 Human Languages
