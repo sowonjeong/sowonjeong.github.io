@@ -11,9 +11,7 @@ redirect_from:
 
 [This]() is a detailed version as of June 2022.
 
-# Sowon Jeong
-
-[Email](mailto:sowonjeong@uchicago.edu) / [Website](https://sowonjeong.github.io) / [LinkedIn](https://www.linkedin.com/in/sowonjeong/) / [GitHub](https://github.com/sowonjeong/) 
+<br><br><br>
 
 ## 👩🏻‍🎓 Education
 
