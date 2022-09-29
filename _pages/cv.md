@@ -11,15 +11,21 @@ redirect_from:
 
 [This]() is a detailed version as of June 2022.
 
-## Education
-* B.Comm. in Applied Statistics, Yonsei University, 2019
-* M.S. in Statistics, University of Chicago, 2023(Expected)
+# Sowon Jeong
 
-## Research experience
-* Sep 2021-: Research Assistant
-  * University of Chicago
-  * Topics: Graph Neural Network
-  * Supervisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span>
+[Email](mailto:sowonjeong@uchicago.edu) / [Website](https://sowonjeong.github.io) / [LinkedIn](https://www.linkedin.com/in/sowonjeong/) / [GitHub](https://github.com/sowonjeong/) 
+
+## 👩🏻‍🎓 Education
+
+**Master of Science** in Statistics<br>
+[The University of Chicago](https://www.american.edu/) - Chicago IL, USA _2023(Expected)_
+
+**Bachelor of Commerce** in Applied Statistics<br>
+[Yonsei University](https://www.beloit.edu/) - Seoul, Korea _2019_
+
+
+## 👩🏻‍💻 Research Experience
+
 
 * Nov 2021-: Research Assitant
   * University of Chicago
@@ -36,13 +42,58 @@ redirect_from:
   * Topics: Human Computer Interaction
   * Supervisor: Professor Bongwon Suh 
 
-## Work experience
-* Jan 2019 - June 2021: Full-time Data Analyst
-  * Hyundai Marine and Fire Insurance, Long-term Claim Planning Dept
-  * Duties:
-  * Skills: SQL, R, Microsoft Excel, Power Point
 
-* June 2017 - Dec 2017: Off-Cycle Intern
-  * BNP Paribas Securities Korea, Equity Derivative Sales
-  * Duties: 
-  * Skills: VBA, Microsoft Excel, Power Point
+**Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Sep 2021 - Present)_ <br>
+Supervisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
+  - **_Topics:_** Graph Neural Network 
+  - **_Technologies used:_** Python(PyTorch)
+<br><br>
+
+**Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Nov 2021 - Present)_ <br>
+Supervisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/)</span> <br>
+  - **_Topics:_** Generative Modeling, Kernel Method
+  - **_Technologies used:_** Python(PyTorch)
+<br><br>
+
+**Undergraduate Researcher** @ [Institue for Natural Science Research, Yonsei University](https://nsri.yonsei.ac.kr/nslab/index.do) _(May 2018 - Feb 2019)_ <br>
+Supervisor: Phd <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
+  - **_Topics:_** Bioinformatics, Bayesian Hierarchical Model
+  - **_Technologies used:_** R
+<br><br>
+
+**Undergraduate Researcher(Internship)** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
+Supervisor: Phd <span style="font-variant:small-caps;"> Professor [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
+  - **_Topics:_** Human Computer Interaction(HCI)
+  - **_Technologies used:_** R
+<br><br>
+    
+
+## 📊 Professional Experience
+
+**Full-time Data Analyst** @ [Hyundai Marine and Fire Insurance]([https://hack.touchyfeely.tech/](http://www.hyundaiinsuranceusa.com/)) _(Jan 2019 - June 2021)_ <br>
+Long-term Claims Planning Dept <br>
+  * Duties:
+  * Skills: SQL, R, Microsoft Excel, Power Point 
+
+**Off-Cycle Intern** @ [BNP Pariabs Securities]([https://dev.to/](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/)) _(June 2017 - Dec 2017)_ <br>
+Global Market, Equity Derivative Sales <br>
+  * Duties:
+  * Skills: Microsoft Office, VBA, Bloomberg
+<br><br>
+
+
+## 💻 Computer Languages
+
+**Advanced**: R, SQL, \LaTeX
+**Moderate**: Python(PyTorch, TensorFlow), SAS, Git
+**Basic**: Matlab
+<br><br>
+
+## 💬 Human Languages
+
+🇺🇸 **English**: Fluent <br>
+🇰🇷 **Korean**: Native <br>
+🇫🇷 **French**: B1
+<br><br>
+
+
