@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
-I am M.S student in the Department of Statistics, the University of Chicago. I studied Applied Statistics in Yonsei University, South Korea.
+I am Sowon, M.S student in the Department of Statistics, the University of Chicago. I studied Applied Statistics in Yonsei University, South Korea.
 
-
-## Education
-* The University of Chicago, 2021-2023(Expected)
-  * M.S. in Statistics
-* Yonsei University, 2014-2019
-  * B.Comm in Applied Statistics(Minor in Economics)
 
