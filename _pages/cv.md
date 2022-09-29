@@ -11,7 +11,7 @@ redirect_from:
 
 [This]() is a detailed version as of June 2022.
 
-<br><br><br>
+<br> <hr />
 
 ## 👩🏻‍🎓 Education
 
