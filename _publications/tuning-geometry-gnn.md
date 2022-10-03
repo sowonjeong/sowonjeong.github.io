@@ -1,8 +1,8 @@
 ---
-title: "Tuning the Geometry of Graph Neural Networks"
+title: "[Preprint]Tuning the Geometry of Graph Neural Networks"
 collection: publications
 permalink: /publication/tuning-geometry-gnn
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2022-07-12
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2207.05887'
