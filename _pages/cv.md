@@ -17,10 +17,10 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Master of Science** in Statistics<br>
-[The University of Chicago](https://www.american.edu/) - Chicago IL, USA _2023(Expected)_
+[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023(Expected)_
 
 **Bachelor of Commerce** in Applied Statistics<br>
-[Yonsei University](https://www.beloit.edu/) - Seoul, Korea _2019_
+[Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2019_
 
 
 ## 👩🏻‍💻 Research Experience
@@ -44,7 +44,7 @@ Supervisor: Phd <span style="font-variant:small-caps;"> Leeyoung Park </span> <b
 <br><br>
 
 **Undergraduate Researcher(Internship)** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
-Supervisor: Phd <span style="font-variant:small-caps;"> Professor [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
+Supervisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
   - **_Topics:_** Human Computer Interaction(HCI)
   - **_Technologies used:_** R
 <br><br>
@@ -57,7 +57,7 @@ Long-term Claims Planning Dept <br>
   * Duties:
   * Skills: SQL, R, Microsoft Excel, Power Point 
 
-**Off-Cycle Intern** @ [BNP Pariabs Securities]([https://dev.to/](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/)) _(June 2017 - Dec 2017)_ <br>
+**Off-Cycle Intern** @ [BNP Paribas Securities]([https://dev.to/](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/)) _(June 2017 - Dec 2017)_ <br>
 Global Market, Equity Derivative Sales <br>
   * Duties:
   * Skills: Microsoft Office, VBA, Bloomberg
@@ -67,7 +67,7 @@ Global Market, Equity Derivative Sales <br>
 ## 💻 Computer Languages
 
 **Advanced**: R, SQL, \LaTeX <br>
-**Moderate**: Python(PyTorch, TensorFlow), SAS, Git <br>
+**Moderate**: Python(PyTorch, TensorFlow), Julia, SAS, Git<br>
 **Basic**: Matlab <br>
 <br><br>
 
