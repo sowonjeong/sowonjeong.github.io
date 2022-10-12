@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This]() is a detailed version as of June 2022.
+[This]() is a detailed version as of Oct 2022.
 
 <br> 
 <hr/>
@@ -18,6 +18,7 @@ redirect_from:
 
 **Master of Science** in Statistics<br>
 [The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023(Expected)_
+Thesis Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
 
 **Bachelor of Commerce** in Applied Statistics<br>
 [Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2019_
@@ -26,41 +27,41 @@ redirect_from:
 ## 👩🏻‍💻 Research Experience
 
 **Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Sep 2021 - Present)_ <br>
-Supervisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
+Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
   - **_Topics:_** Graph Neural Network 
   - **_Technologies used:_** Python(PyTorch)
 <br><br>
 
 **Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Nov 2021 - Present)_ <br>
-Supervisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/)</span> <br>
+Advisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/)</span> <br>
   - **_Topics:_** Generative Modeling, Kernel Method
   - **_Technologies used:_** Python(PyTorch)
 <br><br>
 
 **Undergraduate Researcher** @ [Institue for Natural Science Research, Yonsei University](https://nsri.yonsei.ac.kr/nslab/index.do) _(May 2018 - Feb 2019)_ <br>
-Supervisor: Phd <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
+Advisor: Phd <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
   - **_Topics:_** Bioinformatics, Bayesian Hierarchical Model
   - **_Technologies used:_** R
 <br><br>
 
 **Undergraduate Researcher(Internship)** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
-Supervisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
+Advisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
   - **_Topics:_** Human Computer Interaction(HCI)
   - **_Technologies used:_** R
 <br><br>
     
 
-## 📊 Professional Experience
+## 💼 Professional Experience
 
-**Full-time Data Analyst** @ [Hyundai Marine and Fire Insurance]([https://hack.touchyfeely.tech/](http://www.hyundaiinsuranceusa.com/)) _(Jan 2019 - June 2021)_ <br>
+**Full-time Data Analyst** @ [Hyundai Marine and Fire Insurance]((http://www.hyundaiinsuranceusa.com/) _(Jan 2019 - June 2021)_ <br>
 Long-term Claims Planning Dept <br>
-  * Duties:
-  * Skills: SQL, R, Microsoft Excel, Power Point 
+  - **_Duties_** includes but not limited to: (1) Claim data reports on regular basis (2) Database management (3) Anomaly analysis
+  - **_Technologies used:_** SQL, R, Microsoft Excel, Power Point 
 
 **Off-Cycle Intern** @ [BNP Paribas Securities]([https://dev.to/](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/)) _(June 2017 - Dec 2017)_ <br>
 Global Market, Equity Derivative Sales <br>
-  * Duties:
-  * Skills: Microsoft Office, VBA, Bloomberg
+  - **_Duties_** includes but not limited to: (1) Transaction confirmation of TLS and ELS (2) Market updates (3) Translation(Eng -> Kor) of in-house research articles.
+  - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
 <br><br>
 
 
