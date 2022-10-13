@@ -17,8 +17,8 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Master of Science** in Statistics<br>
-[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023(Expected)_
-Thesis Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
+[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023(Expected)_ <br>
+  - Thesis Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
 
 **Bachelor of Commerce** in Applied Statistics<br>
 [Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2019_
