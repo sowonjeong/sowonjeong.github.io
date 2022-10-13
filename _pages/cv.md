@@ -55,12 +55,10 @@ Advisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://
 
 **Full-time Data Analyst** @ [Hyundai Marine and Fire Insurance](http://www.hyundaiinsuranceusa.com/) _(Jan 2019 - June 2021)_ <br>
 Long-term Claims Planning Dept <br>
-  - **_Duties_** includes but not limited to: (1) Claim data reports on regular basis (2) Database management (3) Anomaly analysis
   - **_Technologies used:_** SQL, R, Microsoft Excel, Power Point 
 
 **Off-Cycle Intern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
 Global Market, Equity Derivative Sales <br>
-  - **_Duties_** includes but not limited to: (1) Transaction confirmation of TLS and ELS (2) Market updates (3) Translation(Eng -> Kor) of in-house research articles.
   - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
 <br><br>
 
