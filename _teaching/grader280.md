@@ -2,7 +2,7 @@
 title: "STAT28000: Optimization"
 collection: teaching
 type: "Grader"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/stat280
 venue: "University of Chicago, Department of Statistics"
 date: 2021-03-01
 location: "Chicago, USA"

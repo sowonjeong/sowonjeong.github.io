@@ -2,7 +2,7 @@
 title: "STAT22400: Applied Linear Regression Analysis"
 collection: teaching
 type: "Grader"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/stat224
 venue: "University of Chicago, Department of Statistics"
 date: 2022-09-27
 location: "Chicago, USA"
