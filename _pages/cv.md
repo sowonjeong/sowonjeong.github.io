@@ -38,11 +38,11 @@ Advisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https:/
   - **_Technologies used:_** Python(PyTorch)
 <br><br>
 
-%**Undergraduate Researcher** @ [Institue for Natural Science Research, Yonsei University](https://nsri.yonsei.ac.kr/nslab/index.do) _(May 2018 - Feb %2019)_ <br>
-%Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
-%  - **_Topics:_** Bioinformatics, Bayesian Hierarchical Model
-%  - **_Technologies used:_** R
-%<br><br>
+<>**Undergraduate Researcher** @ [Institue for Natural Science Research, Yonsei University](https://nsri.yonsei.ac.kr/nslab/index.do) _(May 2018 - Feb 2019)_ <br>
+<>Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
+<>  - **_Topics:_** Bioinformatics, Bayesian Hierarchical Model
+<>  - **_Technologies used:_** R
+<><br><br>
 
 **Undergraduate Researcher(Internship)** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
 Advisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
