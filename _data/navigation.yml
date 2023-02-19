@@ -14,14 +14,15 @@ main:
 
   - title: "Readings"
     url: /readings/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
 
     
  # - title: "Talks"
  #   url: /talks/ 
  
 
- # - title: "Blog Posts"
- #   url: /year-archive/
     
  # - title: "Guide"
  #   url: /markdown/
