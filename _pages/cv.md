@@ -16,8 +16,11 @@ redirect_from:
 
 ## 👩🏻‍🎓 Education
 
+**Doctor of Philosophy** in Statistics<br>
+[The University of Chicago, Booth School of Business](https://www.chicagobooth.edu/) - Chicago IL, USA _2028(Expected)_ <br>
+
 **Master of Science** in Statistics<br>
-[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023(Expected)_ <br>
+[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023_ <br>
   - Thesis Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
 
 **Bachelor of Arts** in Applied Statistics<br>
