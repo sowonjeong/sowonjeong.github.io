@@ -1,6 +1,6 @@
 ---
 title: "Studying the Effect of GNN Spatial Convolutions On The Embedding Space's Geometry"
-excerpt: "This project is (1) to define families of graph convolution parametrized by $\alpha$ and $\beta$, and (2) to investigate the properties of the choice of graph convolution operators in spatial perspective. <br/><img src='images/cora_accuracy.png'>"
+excerpt: "This project is (1) to define families of graph convolution operators, and (2) to investigate the properties of the choice of graph convolution operators in spatial perspective. <br/><img src='images/cora_accuracy.png'>"
 collection: portfolio
 ---
 
