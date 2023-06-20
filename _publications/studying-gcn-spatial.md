@@ -1,7 +1,7 @@
 ---
 title: "Studying the Effect of GNN Spatial Convolutions On The Embedding Space's Geometry"
 collection: publications
-permalink: /publication/studying-gcn-spatial
+permalink: /publications/studying-gcn-spatial
 excerpt: ''
 date: 2023-07-31
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI)'
