@@ -3,7 +3,7 @@ title: "Studying the Effect of GNN Spatial Convolutions On The Embedding Space's
 collection: publications
 permalink: /publication/studying-gcn-spatial
 excerpt: ''
-date: 2022-07-12
+date: 2023-07-31
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI)'
 paperurl: 'https://arxiv.org/abs/2207.05887'
 ---
