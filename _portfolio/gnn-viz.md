@@ -1,6 +1,6 @@
 ---
 title: Graph Neural Network for Dimensionality Reduction and Visualization
-excerpt: This project is to understand the Graph Neural Network as Dimensionality Reduction and Visualization Techniques. <br/><img src='/images/500x300.png'>
+excerpt: This project is to understand the Graph Neural Network as Dimensionality Reduction and Visualization Techniques. <br/><img src='/images/blobs.png'>
 collection: portfolio
 ---
 
