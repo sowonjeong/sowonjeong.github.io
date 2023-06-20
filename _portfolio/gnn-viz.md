@@ -1,7 +1,8 @@
 ---
 title: Graph Neural Network for Dimensionality Reduction and Visualization
-excerpt: Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>
+excerpt: This project is to understand the Graph Neural Network as Dimensionality Reduction and Visualization Techniques. <br/><img src='/images/500x300.png'>
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a master's thesis project at the University of Chicago.
+[This](https://uchicago.box.com/s/si40n42oegh5ntz0pecrm6dsvsh0qiwt) extended abstract was submitted to Graph Signal Processing Workshop(GSP) 2023, giving a good overview of the project.
