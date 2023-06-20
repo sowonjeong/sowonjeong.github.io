@@ -1,7 +1,7 @@
 ---
-title: "Tuning the Geometry of Graph Neural Networks"
+title: "Studying the Effect of GNN Spatial Convolutions On The Embedding Space's Geometry"
 collection: publications
-permalink: /publication/tuning-geometry-gnn
+permalink: /publication/studying-gcn-spatial
 excerpt: ''
 date: 2022-07-12
 venue: '39th Conference on Uncertainty in Artificial Intelligence (UAI)'
