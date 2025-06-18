@@ -84,13 +84,25 @@ analytics:
 author:
   name             : "Sowon Jeong"
   avatar           : "profile.png"
-  bio              : "Incoming Statistics PhD student @ the University of Chicago, Booth School of Business"
+  bio              : "Econometrics & Statistics PhD student @ the University of Chicago, Booth School of Business"
   location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sowonjeong@uchicago.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+
+  # Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=ToyNTIsAAAAJ&hl=en"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0004-7483-2835"
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : # URL
+  scopus           : # URL
+  
+  # Social
   uri              :
   bitbucket        :
   codepen          :
