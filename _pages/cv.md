@@ -17,7 +17,7 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Doctor of Philosophy** in Econometrics and Statistics<br>
-[The University of Chicago, Booth School of Business](https://www.chicagobooth.edu/) - Chicago IL, USA _2028(Expected)_ <br>
+[The University of Chicago, Booth School of Business](https://www.chicagobooth.edu/) - Chicago IL, USA _2028 (Expected)_ <br>
 
 **Master of Science** in Statistics<br>
 [The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023_ <br>
